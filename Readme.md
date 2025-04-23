@@ -71,5 +71,5 @@ Loads the saved model and outputs the English translation.
 Feel free to open issues or submit pull requests for improvements (e.g., beam search, attention mechanism).
 
 ## License
-MIT © 2025
+GNU GPL V3 © 2025 Krzychu
 
